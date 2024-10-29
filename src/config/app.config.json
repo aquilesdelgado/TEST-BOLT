@@ -1,0 +1,29 @@
+{
+  "languages": {
+    "available": ["es"],
+    "default": "es"
+  },
+  "flags": {
+    "en": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "es": "🇪🇸",
+    "pl": "🇵🇱"
+  },
+  "labels": {
+    "en": "English",
+    "es": "Español",
+    "pl": "Polski"
+  },
+  "clock": {
+    "format": "HH:mm:ss",
+    "availableFormats": [
+      "LT",
+      "LTS",
+      "L",
+      "LL",
+      "LLL",
+      "LLLL",
+      "HH:mm:ss",
+      "h:mm A"
+    ]
+  }
+}
